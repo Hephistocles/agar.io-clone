@@ -18,7 +18,7 @@ var borderDraw = false;
 var animLoopHandle;
 var spin = -Math.PI;
 var enemySpin = -Math.PI;
-var mobile = false;
+var mobile = true;
 var foodSides = 10;
 var virusSides = 20;
 
